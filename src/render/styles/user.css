@@ -146,11 +146,11 @@ div.container.post{
   margin-bottom:50px;
 }
 
-div.post.p {
+div.post p {
     width: 100%;
 }
 
-div.post.p.img {
+div.post img {
     width: inherit;
 }
 

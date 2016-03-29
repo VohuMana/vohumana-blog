@@ -4,20 +4,20 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><%= @getPreparedTitle() %></title>
-    <%- @getBlock("styles").add(["/styles/user.css", "/styles/bootstrap.min"]).toHTML() %>
+    <%- @getBlock("styles").add(["./styles/user.css", "./styles/bootstrap.css"]).toHTML() %>
 </head>
 
 <body>
     <nav class="navbar navbar-default navbar-static-top">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a class="navbar-brand navbar-link" href="#"> <img class="img-thumbnail" src="images/monogram.jpg" width="53" height="53"></a>
+                <a class="navbar-brand navbar-link" href="#"> <img class="img-thumbnail" src="./images/monogram.jpg" width="53" height="53"></a>
                 <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
             </div>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav">
-                    <li role="presentation"><a href="/index.html">Posts </a></li>
-                    <li class="active" role="presentation"><a href="/resume.html">Resume </a></li>
+                    <li role="presentation"><a href="index.html">Posts </a></li>
+                    <li class="active" role="presentation"><a href="resume.html">Resume </a></li>
                 </ul>
             </div>
         </div>
@@ -39,7 +39,7 @@
         <h5>David James © 2016</h5>
     </footer>
     
-    <%- @getBlock("scripts").add(["/vendor/jquery.min.js","/vendor/bootstrap.min.js"]).toHTML() %>
+    <%- @getBlock("scripts").add(["./vendor/jquery.min.js","./vendor/bootstrap.min.js"]).toHTML() %>
 </body>
 
 </html>

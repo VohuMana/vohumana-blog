@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><%= @getPreparedTitle() %></title>
-    <%- @getBlock("styles").add(["/styles/user.css", "/styles/bootstrap.min"]).toHTML() %>
+    <%- @getBlock("styles").add(["../styles/user.css", "../styles/bootstrap.css"]).toHTML() %>
 </head>
 
 <body>
@@ -16,8 +16,8 @@
             </div>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="nav navbar-nav">
-                    <li role="presentation"><a href="/index.html">Posts </a></li>
-                    <li role="presentation"><a href="/resume.html">Resume </a></li>
+                    <li role="presentation"><a href="../index.html">Posts </a></li>
+                    <li role="presentation"><a href="../resume.html">Resume </a></li>
                 </ul>
             </div>
         </div>
@@ -27,7 +27,7 @@
         <div class="col-md-8">
             <div class="row">
                 <div class="col-md-12">
-                    <div id="Post">
+                    <div class="post">
                         <%- @content %>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
         <h5>David James © 2016</h5>
     </footer>
     
-    <%- @getBlock("scripts").add(["/vendor/jquery.min.js","/vendor/bootstrap.min.js"]).toHTML() %>
+    <%- @getBlock("scripts").add(["../vendor/jquery.min.js","../vendor/bootstrap.min.js"]).toHTML() %>
 </body>
 
 </html>
