@@ -3,27 +3,28 @@ title = "About David James"
 date = "2016-08-21"
 +++
 
-Hugo is a static site engine written in Go.
+### About
+Currently a Software Engineer working at Microsoft I helped create Quick Assist in Windows 10 and drive a better support expirence for customers and agents.  I studied Real-Time Interactive simulation at DigiPen which is a long way of saying I learned how computers work at their most basic components and developed video games.
 
+### Games
+  * [Wub Wub Racer Magic](http://games.digipen.edu/games/wub-wub-racer-magic#.VvDrVUd7ebI)
+  * [Luminosity](http://games.digipen.edu/games/luminosity#.VvDqw0d7ebI)
+  * [Survailent][TODO: Fix Link]
 
-It makes use of a variety of open source projects including:
+### Why is your blog called "The Well of Insatiable Curiosity"?
+I find my self constatnly curious and always wanting to learn why things work the way the do.  The title I feel conveys my drive to learn.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+### What are your interests?
+  * Learning new languages (programming/spoken)
+  * Mythology
+  * Travel/Exploration
+  * Computer graphics
+  * So many more...
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+### Will you teach me to code?
+> **"** Code to learn.  Don't learn to code. **"** - Unknown
 
-## Setup
+Short answer: No
+Long answer: I'm willing to help but won't teach you.  If you want to start learning I would recommend starting with Python, if you like that then you can decide what projects you want to do.
 
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+**Thanks for reading!**
