@@ -3,7 +3,7 @@ author = "David James"
 categories = ["Review", "Book"]
 date = "2016-10-04T20:13:20-07:00"
 description = ""
-featured = "NordicTheory.jpg"
+featured = "r7ddkun_yvu-tanya-tulupenko_web.jpg"
 featuredalt = "The Nordic Theory of Everything"
 featuredpath = "date"
 linktitle = ""
@@ -22,3 +22,5 @@ The entire book I found myself hitting points where I sat there thinking "that's
 The book breaks down each social program offered in the Nordic countries and compares them to America.  Anu also compares how Nordic citizens raise their children and what it was like being raised in Finland to concerns her American friends were having when deciding to start a family in America.  I really enjoyed how Anu was able to compare America and the Nordic countries without seeming extremely biased.  Each topic covered in the book is well explained and has data to back up the findings. I also liked the back of the book contains a bibliography which allowed me to look up any of the data or sources mentioned for greater context. 
 
 Even with how amazing I found this book to be I would still encourage readers to dig a little deeper and come to your own conclusions about the Nordic systems.  I would like to live in Finland for a 6-12mo to determine my own thoughts on the matter.  In my opinion in America we pay a lot of taxes but don't really see much from those taxes, roads still have pot holes, education seems broken, and it is nearly impossible to get an invoice for a doctor visit ahead of time.  Overall if the US wants to achieve the same level of quality of life that they have in the Nordic countries it will need to cut a lot of red tape, set a higher quality bar, and think smarter not bigger.
+
+Image credit [https://unsplash.com/photos/oAPv2AoMmCU](https://unsplash.com/photos/oAPv2AoMmCU)

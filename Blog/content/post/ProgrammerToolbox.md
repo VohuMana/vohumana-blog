@@ -3,8 +3,8 @@ author = "David James"
 categories = ["opinion", "programming"]
 date = "2016-09-06T11:45:26-07:00"
 description = "An opinion about learning more languages and using fewer frameworks"
-featured = "hammer.jpg"
-featuredalt = "Hammer"
+featured = "oapv2aommcu-aj-yorio_web.jpg"
+featuredalt = "Garage with toolbox"
 featuredpath = "date"
 linktitle = ""
 title = "Grow your toolbox"
@@ -32,3 +32,5 @@ As a broad overview here is what I think these languages are best at:
   - Rust - Best for native level performance without dealing with memory leaks.  Think modern C++
 
 I hope this guides you to learn a new language and add a tool to your toolbox.  You never know when one of these might come in handy.
+
+Image credit [https://unsplash.com/photos/oAPv2AoMmCU](https://unsplash.com/photos/oAPv2AoMmCU)
