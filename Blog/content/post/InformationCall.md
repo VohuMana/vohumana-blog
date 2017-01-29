@@ -21,7 +21,7 @@ Information works like this; an event occurs somewhere if they have a source on 
 
 I could see this working in our current news market.  Currently, I have to view multiple sources on a given story or see the raw data to come to a conclusion of what the truth is.  The single biggest drawback of an organization like Information is it leaves a single point of failure, for example, if you can corrupt that only source then you can control the opinions of the people.  If access is blocked to the source, then events can be hidden.
 
-In conclusion, I think the media hand ended up in a disaster of their making, and they are in a death spiral with each other as they shape the events to be what they want them to be, sometimes even blatantly lying.  If there is a transparent process involved in determining the validity of a given article, I feel the public can hold institutions that wish to censor, accountable.  The best solution I can see right now though would be an organization that can build a reputation of reporting facts unbiased and as truthfully as possible.
+In conclusion, I think the media has ended up in a disaster of their making, and they are in a death spiral with each other as they shape the events to be what they want them to be, sometimes even blatantly lying.  If there is a transparent process involved in determining the validity of a given article, I feel the public can hold institutions that wish to censor, accountable.  The best solution I can see right now though would be an organization that can build a reputation of reporting facts unbiased and as truthfully as possible.
 
 Thanks for reading! 
 
